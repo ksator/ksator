@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am Khelil.  
-
 I'm an advanced services engineer at Arista Networks. I worked previously at Juniper Networks, Blue Coat Systems (acquired by Symantec, now part of Broadcom) and a Value-Added Reseller.  
 I love network automation and I sometimes add repos here.  
 
