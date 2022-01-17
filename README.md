@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an advanced services engineer at Arista Networks. I worked previously at Juniper Networks, Blue Coat Systems (acquired by Symantec, now part of Broadcom) and a Value-Added Reseller.  
+My name is Khelil Sator. I'm an advanced services engineer at Arista Networks. I worked previously at Juniper Networks, Blue Coat Systems (acquired by Symantec, now part of Broadcom) and a Value-Added Reseller.  
 I love network automation and I sometimes add repos here.  
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/ksator)
